@@ -1,6 +1,5 @@
 # BankManagment
-
-Certainly! Here's an explanation of the provided C++ code line by line:
+Here's an explanation of the provided C++ code line by line:
 
 1. `#include <iostream>`: This line includes the input/output stream library, allowing input and output operations to be performed in the program.
 
